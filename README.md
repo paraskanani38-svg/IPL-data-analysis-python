@@ -1,6 +1,6 @@
-# 🏏 IPL Data Analysis & Dashboard
+#  IPL Data Analysis & Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing IPL (Indian Premier League) match data using Python and Power BI. The dataset contains ball-by-ball match information, which was explored to uncover insights related to batting performance, bowling statistics, team contributions, scoring patterns, and match trends.
 
@@ -8,7 +8,7 @@ The project combines Exploratory Data Analysis (EDA), statistical analysis, and 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Perform data cleaning and preprocessing
 - Analyze batting and bowling performance
@@ -31,7 +31,7 @@ The project combines Exploratory Data Analysis (EDA), statistical analysis, and 
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 The dataset contains IPL ball-by-ball match data with the following key attributes:
 
@@ -51,7 +51,7 @@ The dataset contains IPL ball-by-ball match data with the following key attribut
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 ### Data Exploration
 - Dataset overview
@@ -103,7 +103,7 @@ The dataset contains IPL ball-by-ball match data with the following key attribut
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Mumbai Indians scored the highest total runs among teams.
 - Delhi Daredevils and Kolkata Knight Riders contributed the highest wickets.
@@ -114,7 +114,7 @@ The dataset contains IPL ball-by-ball match data with the following key attribut
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository
 
@@ -138,7 +138,7 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 IPL-Data-Analysis-and-Dashboard/
@@ -157,7 +157,7 @@ IPL-Data-Analysis-and-Dashboard/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Paras Kanani**
 
